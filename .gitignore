@@ -6,3 +6,12 @@ Doxyfile.meta
 docs/*.meta
 docs/html/*.meta
 docs/html/*/*.meta
+
+# ======================= #
+# umm (Node.js) generated #
+# ======================= #
+/node_modules/
+/Assets/Modules*
+/package-lock.json
+/yarn-error*
+/yarn.lock
