@@ -1,0 +1,15 @@
+{
+    "name": "umm@assetgraphtool-Editor-Test",
+    "references": [
+        "umm@assetgraphtool",
+        "umm@assetgraphtool-Editor"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

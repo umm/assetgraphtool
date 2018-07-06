@@ -1,0 +1,12 @@
+{
+    "name": "umm@assetgraphtool-Editor",
+    "references": [
+        "umm@assetgraphtool"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
