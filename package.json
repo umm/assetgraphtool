@@ -2,9 +2,9 @@
   "name": "@umm/assetgraphtool",
   "version": "1.0.0",
   "description": "Asset Graph Tool",
-  "homepage": "https://github.com/umm-projects/assetgraphtool",
+  "homepage": "https://github.com/umm/assetgraphtool",
   "bugs": {
-    "url": "https://github.com/umm-projects/assetgraphtool/issues"
+    "url": "https://github.com/umm/assetgraphtool/issues"
   },
   "scripts": {
     "umm:init": "umm-init",
@@ -18,13 +18,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:umm-projects/assetgraphtool"
+    "url": "git@github.com:umm/assetgraphtool"
   },
   "files": [
     "Assets"
   ],
   "dependencies": {
-    "@umm/scripts": "umm-projects/scripts#^1.0.0"
+    "@umm/scripts": "umm/scripts#^1.0.0"
   },
   "devDependencies": {}
 }
